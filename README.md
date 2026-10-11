@@ -1,4 +1,4 @@
-Trap or Trust: Cyber Investigator Game
+Scam Sense: Cyber Investigator Game
 About the Game
 
 Trap or Trust is a browser-based educational game that teaches players how to identify online scams and suspicious messages. Players take the role of a cyber investigator who examines emails and text messages to determine whether they are legitimate or fraudulent.
